@@ -1,0 +1,10 @@
+# Python aur Environment
+env/
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite3
+
+# Uploaded Media Files (Kyunke hum dusron ki personal tasweerein GitHub par nahi dalna chahte)
+media/
